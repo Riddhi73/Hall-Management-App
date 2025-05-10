@@ -1,7 +1,7 @@
 # G04-Hall-Management
 
 *Project Title*:
-             An andriod application of the university connected to hall for both student and administration. 
+             An andriod application for the university authority, connecting both students and administration. 
 
 Expected Timeline
 ============================
